@@ -1,8 +1,8 @@
 # Arav Patel
 ### Full Stack Developer 
-I am a commercial-minded **Full Stack Developer** looking for a role where I can contribute towards business growth by applying my growing technical skills with my innate entrepreneurial approach.
+I am a commercial-minded **Full Stack Developer** looking for a role where I can drive business improvement through the application of data.
 
-I have been fortunate to have had a great career so far; playing an important role in two of London's fastest growing scaleups (**Swoon Editions** and **Zencargo**). Both of these experiences have helped to hone an **agile**, **growth mindset** that is capable of taking on **challenges**, **breaking down the steps** and **delivering results**. Through these challenges, I have worked closely with product and engineering teams which has driven my desire to work in this area.
+I am a technology advocate. Having worked in two London's premiere scaleups (**Swoon Editions** and **Zencargo**), I've experienced first hand how data and technology can challenge the status quo. During these roles, I have always worked closely with engineering teams to build products, develop messaging and implement solutions (often saving them from having to manage the printer issues ;-)). Working in fast-paced businesses has helped me to hone an **agile**, **growth mindset** that is capable of taking on **challenges**, **breaking down the steps**, **thinking entreprenuerially** and **delivering results**. 
 
 In August I completed a 16 week software development bootcamp at **Makers Academy**. This course developed upon the technical skills that I gained studying for an **MSc in Economics at London School of Economics** and operating as an analyst. It also provided me with an opportunity to reflect on my learning process; seek out feedback and try new styles of working. This has given me a **process driven** working style that is **curious to learn about new technologies** whilst **supporting the learning of others**.
 
@@ -18,14 +18,14 @@ I use an analytical approach to make decisions that have an impact. I seek first
 Using these skills has enabled me to bootstrap a retail business that turns over £2.5k per quarter at 40% margins.
 
 ### Adaptable Fast Learner
-Working in high-growth businesses throws more challenges at you than you can count. I've used those experiences to build a process that gets me up to speed quickly so that I can contribute. I pretty much follow the same strategy: I start with the situation, I break it down into bite-sized pieces, I define objectives, I apply the pomodoro technique.
+Working in high-growth businesses throws more challenges at you than you can count. I've used those experiences to build a process that gets me up to speed quickly so that I can contribute. I follow a tried and tested strategy: I start with the situation, I break it down into bite-sized pieces, I define objectives, I apply the pomodoro technique. Sometimes I fail, but that’s ok because I’ll reflect and be better for the next time. 
 
-As a side-project during Makers, I built a React-Rails wedding invitation project. To begin with I had no understanding of React but by applying my process I quickly made headway. This enabled me to apply these skills to our final project and help my team understand this new technology faster.
+As a side-project during Makers, I built a React-Rails [Wedding Invitations](https://github.com/aravzpatel/wedding-invitations). To begin with I had no understanding of React but by applying my process I made headway to an mvp in 3 days. This enabled me to apply these skills to our final project and help my team understand this new technology faster.
 
-### Relentless Problem solver
-I thrive in situations with a goal and no known methodology of getting to the promised land. I love the challenge of having to think of new ways of doing things and then trying them out. Sometimes they fail, but that’s ok because I’ll learn from them and be better for the next time. 
+### Strong Communicator
+Communication is the lifeblood of any business. I have worked hard at improving my communication skills for a number of years. Talking simply and practicising empathetic listening have helped me gain the trust of my colleagues. This trust has enabled me to act as a sounding board for ideas; fostering debate and providing support to enable teams to achieve their goals.
 
-Working at Zencargo, I saw that we were providing a multi-billion pound client a poor service by failing to provide timely responses to incoming requests. Speaking with the team I deduced that there was no oversight for the process which made it impossible to provide an acceptable standard. To provide the oversight required I spent an afternoon cobbling together a hybradised KANBAN board using Zapier, Google Sheets, Trello, Slack and Email to track incoming requests and check if they had been fulfilled. This flexible approach enabled us to identify missing quotes quickly and improve our response times, which ultimately provided the level of service the client was looking for.
+A common feedback from my **remote pairing partners** was that they admired *my process*. Part of this is due to my communication skills, without which it would be impossible for them to understand my process. Whilst coding I would use similies to give challenges a practical context. In addition, I would draw diagrams to help my pairs visualise potential solutions and help them to better understand a route to success. 
 
 ### Design-forward thinker
 I believe that good design should always be appreciated regardless of it’s delivery mechanism: visual, physical or technical. I have worked extensively with designers and have learnt how to drive style changes to create aesthetics that deliver impact.
@@ -37,11 +37,10 @@ blend our existing isometric concept with real-life photography to create a uniq
 ## Project history
 
 Attached are a selection of my most recent projects
-Project | Summary | Technologies
---------|---------|-------------
-[Wedding Invitations] | A CRUD-based application that provides a personalised experience for wedding guests to RSVP | React, Rails, RSpec
-[Inventory Tracker] | ERP for personal business to optimise the tracking and listing of invnetory | Ruby on Rails 
-[AISHA] | A self-help chatbot that uses Machine Learning to understand and track your emotion | Python, React
+Project | Summary | Technologies used | Test Suites/CIs
+--------|---------|-------------------|----------------
+[Wedding Invitations](https://github.com/aravzpatel/wedding-invitations) | A CRUD-based application that provides a personalised experience for wedding guests to RSVP | React, Ruby on Rails | RSpec, Jasmine, Jest
+[AISHA](https://github.com/aravzpatel/AIsha) | 4-person project to build a self-help [chatbot](http://projectaisha.herokuapp.com/) that uses Machine Learning to understand and track your emotion | Python, React, Flask | React Testing Library
 
 
 ## Education
@@ -64,12 +63,13 @@ Project | Summary | Technologies
 - Worked collaboratively with product team to establish product-marketing messaging to differentiate business proposition and communicate value
 - Led business rebrand culminating in delivery of new marketing website
 - Developed marketing channels to generate new deals worth $150m pa through combination of direct acquisition and inbound activity
+- Closed $600k deal from sourcing through to solution creation
 
 ### Swoon Editions [Jul 2014 - Mar 2018]
 *Pioneering Series B ecommerce Furniture brand backed by* **Octopus Investments** *&* **Index Ventures** *.*
 
 **Offline Marketing Manager**
-- Created performance marketing methodology to deliver £2.4m budget to deliver first order profitable customers, channels used incl. London Tube, TV, Newspapers & Magazines
+- Created performance marketing methodology to deliver £2.4m budget to deliver first order profitable customers
 - Drove +30% performance improvement in insert performance through 'test-and-learn' approach
 - Led creative process for bi-annual product shoots, creating editorial-style images with long-term ROI 
 
@@ -79,9 +79,8 @@ Project | Summary | Technologies
 - Developed 'Best in Class' attribution system to analyse marketing channel performance through analysis of multiple data sources
 
 **Lead Buying Analyst**
-- Accurately placed orders for £6mm stock - achieving 70% sell-through rate before arrival in UK
 - Worked directly with Product Manager and engineers to build automated stock-management tool and competitor monitoring tool 
-- Drove 13% uplift in sales through introduction of 'free shipping' pricing strategy
+- Accurately placed orders for £6mm stock - achieving 70% sell-through rate before arrival in UK
 
 ### Grokker [Jan - Aug 2013]
 *San Francisco based Health & Wellbeing platform backed by First Round Capital*
@@ -90,9 +89,6 @@ Project | Summary | Technologies
 - Led UK launch event at London's Taste Festival, managing 5 person team to drive c. 800 new users to event
 - Co-produced over 50 hours of themed video content incl: yoga, fitness and cooking
 
-### New State Oil
-**Analyst**
-- Conducted field study in South Sudan for proposed argricultural site
 
 ## Interests
 Cooking, [Listening to Music](https://open.spotify.com/playlist/4jyH5WK69ppVYlgSkYz6ix?si=18sWWRTnTjmRgzHpyzD99Q), Sewing, Minibus campervan conversions
